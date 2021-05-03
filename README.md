@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm mobile app Developer using Android
 
+I enjoy swimmnig, dive and Tennis
 <!--
 **Roise/Roise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
