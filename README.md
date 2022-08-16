@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm mobile app Developer using Android
 
-I enjoy swimmnig, dive and Tennis
+I enjoy swimmnig, Drive and Tennis
 
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0887f2&height=60&text=HyungJun%20Park&animation=fadeIn&fontSize=50&fontColor=ffffff&textBg=true" />
