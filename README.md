@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Android App Developer using Kotlin, Courtine, Jetpack, WebRtc
+I'm Android App Developer using Clean Architecture, Kotlin, Coroutine, Jetpack, WebRtc
 
 I enjoy swimmnig, Drive and Tennis, Golf
 
