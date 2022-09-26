@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Android App Developer using Clean Architecture, Kotlin, Coroutine, Jetpack, WebRtc
+I'm Android App Developer using Clean Architecture, Kotlin, Coroutine, Jetpack, ExoPlayer, WebRtc
 
 I enjoy swimmnig, Drive and Tennis, Golf
 
@@ -13,8 +13,8 @@ I enjoy swimmnig, Drive and Tennis, Golf
 
 <h2>Projects</h2>
 
-- Android Developer - SK 폰꾸미기, T 간편모드 (SKT, SAMSUMG, PANTECH)
-- Android Developer - NATEON, NATE, NATE PANN, TMAP(어디가지또)
+- Android Developer - SK 폰꾸미기 (Android Launcher), T 간편모드 (SKT, SAMSUMG, PANTECH)
+- Android Developer - NATEON(Messenger), NATE, NATE PANN, TMAP(Navigation - 어디가지또)
 - Android Developer - WebRTC 관련 (쿠키톡)
 
 
